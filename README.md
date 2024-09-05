@@ -41,11 +41,11 @@ contoso-invoices
 ├─ .gitignore
 ├─ config
 │  ├─ __init__.py
-│  ├─ const.py
+│  └─ const.py
 ├─ data
 │  ├─ input
 │  │  └─ Contoso Coffee Shop Invoices.xlsx
-│  ├─ temp
+│  └─ temp
 ├─ resources
 │  ├─ dependencies
 │  │  ├─ ContosoInvoicingStup.msi
@@ -53,11 +53,11 @@ contoso-invoices
 ├─ workflows
 │  ├─ __init__.py
 │  └─ invoices_record.py
-│ bot.py
-│ build.bat
-│ build.ps1
-│ build.sh
-│ contosoFaturas.botproj
-│ README.md
-│ requirements.txt
+├─ bot.py
+├─ build.bat
+├─ build.ps1
+├─ build.sh
+├─ contosoFaturas.botproj
+├─ README.md
+└─ requirements.txt
 ```
